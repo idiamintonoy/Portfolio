@@ -1,0 +1,110 @@
+body {
+	background-color: #b7b7f3;
+	color: #808080;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+
+#header1 {
+	background-color: #bb0d72;
+	text-align: center;
+	width: 100%;
+	overflow: hidden;
+	color: rgb(8, 8, 8)
+	
+}
+#mydetails{
+		
+	background-image: url('view.png');
+	
+	background-position:center;
+	text-align: center;
+	color: rgb(221, 0, 0);
+
+}
+
+#academicdetailsmain {
+	float:left;
+	width: 60%;
+	box-sizing: border-box;
+	color: rgb(0, 0, 0);
+	
+}
+#academicdetails {
+	float:left;
+	width: 70%;
+	box-sizing: border-box;
+	color: rgb(245, 11, 11);
+	
+}
+#personaldetailsmain {
+	float:right;
+
+	color: rgb(0, 0, 0);
+	box-sizing: -box;;
+}
+
+#personaldetails{
+	float:right;
+
+	color: rgb(221, 0, 0);
+	box-sizing: border-box;
+}
+a:link {
+	text-align: center;
+	background-color: yellow;
+  }
+
+  img {
+	border-radius: 50%;
+  }
+
+  table {
+	border-collapse: collapse;
+	width: 100%;
+  }
+  
+  th, td {
+	text-align: left;
+	padding: 8px;
+	color: rgb(2, 2, 2)04, 5, 5);
+  }
+  
+
+  th {
+	background-color: #460088;
+	color: white;
+  }
+  tr {
+	background-color: #004688;
+	color: white;
+  }
+  .checked {
+	color: orange;
+  }
+
+
+
+
+
+#footer {
+
+	text-align: center;
+	width:90%;
+	position:relative;
+	padding: 90px;
+	margin-top: 90px;
+	color: rgb(10, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
